@@ -1,0 +1,30 @@
+<!doctype html>
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>Definitions</title>
+	  </head>
+	  <body bgcolor="728FCE">
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
+    <center>
+    <h1>About Me</h1>
+    <h2>   My Favorites</h2>
+    <h3>Favorite Animal</h3>
+     <img src="images/Dog.jpg" height="200">
+     <div>i love dogs :)</div>
+    <h3>Favorite Food</h3>
+      <img src="images/Waffles.jpg" height="200">
+    <div>Waffles are better than pancakes!</div>
+      <div> 
+    <h3>Favorite Band</h3>
+      <img src="images/Back.jpg" height="300">
+    <div>Pool House is my favorite song</div>
+    <h2> My Hobbies</h2>
+    <img src="images/Thrifted.jpg" height="200"> <img src="images/Puzzle.jfif" height="200">  <img src="images/Read.png" height="200">
+    <div>My hobbies are thrifting, solving puzzles and reading</div>
+    </center>
+    </a>
+	  </body>
+	</html>
