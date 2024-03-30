@@ -1,0 +1,36 @@
+<!doctype html>
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>Portfolio</title>
+	  </head>
+	  <body bgcolor="78C7C7">
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="aboutme.html">About Me</a>
+    <center>
+    <h1>This is my Portfolio Page!</h1>
+     <h2>1.1.9 Project: Build a Snowman!</h2>
+     	<img src="images/Capture (1).jpg" height="200">
+    <h3>In Build a Snowman users will be prompted with a variety of questions that will aid them in designing their own Snowman.</h3>
+     <h2>1.2.5 Project: Reindeer Run!</h2>
+     <img src="images/Run.PNG" height="300">
+    <h3>In Reindeer Run users will have to cross over barriers with moving objects to get to the other side. If they are hit by one of the moving objects they will lose a life. If you survive to the end of the game you win.</h3>    
+     <h2>1.3.1 Scratch Project</h2>
+	<img src="images/1.3.1..PNG" height="300">
+    <h3>In Sandwich Shop players will act as employees and will fulfill the orders of the customer by clicking on the different ingredients to make the customer’s sandwich. If players are successful in making the Sandwich then they’ll receive coins!</h3> 
+     <h2>2.1.6 Project: Fishtank Monitor</h2>
+	<img src="images/Fishtank.PNG" height="300">
+    <h3>In the fishtank assignment we identified security vulnerabilities in the Fishtank monitoring system and we worked to fix any errors that we discovered within the system's code.</h3>
+	<h2>4.1.4 Project: Peppered Moths</h2>
+	    <img src="images/Moths.PNG" height="300">
+    <h3>We explored a simulation on the evolution of Peppered Moths and identified how the various interactive elements of the simulation represented the real-world phenomenon of natural selection that led to evolutionary changes within the Peppered Moth species.</h3>
+        <h2>3.1.6 Rover Phone Home</h2>
+	    <img src="images/CPC3.1.6..PNG" height="300">
+    <h3>Within this assignment we were given a set of data which represented the different characteristics of a certain region of an Alien Planet. We graphed the data and determined from observing trends in the data that the region that was represented was the Rocky Mountains of the Alien Planet.</h3>
+        <h2>3.2.4 Honey Production: Making Meaning from Data</h2>
+	    <img src="images/Honey.PNG" height="300">
+    <h3>Within this assignment we analyzed and graphed the data for the yearly production of honey across various states in the U.S.</h3>
+    </center>
+	  </body>
+	</html>
